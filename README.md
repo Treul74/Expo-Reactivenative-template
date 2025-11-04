@@ -67,6 +67,10 @@ app/
 - npm or yarn
 - Expo CLI (optional, can use npx)
 
+- create expo project and replace the app.json
+  projectid=
+  owener=
+
 ### Installation
 
 1. Clone the repository:
