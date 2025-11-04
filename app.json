@@ -49,9 +49,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "f2ee8e2e-9331-49dc-a302-766604d6da96"
+        "projectId": "your expo id here"
       }
     },
-    "owner": "treul"
+    "owner": "user_name"
   }
 }
